@@ -1,4 +1,4 @@
-#Citizen Radio Frequency Identification (CRFID)
+# Citizen Radio Frequency Identification (CRFID)
 
 The **Citizen radio frequency identification system** is a hardware subsystem of the **Citizen identification system** (**CID**) known more commonly as the **Citizen Card**  The software and hardware components provided by the **CRFID** subsystem enable contactless communication of a encrypted **Citizen ID**. This powers the basis of the **Citizen Card** - a credit card sized **RFID** card, which in-turn powers the ecosystem of the Citizen identification system.
 
