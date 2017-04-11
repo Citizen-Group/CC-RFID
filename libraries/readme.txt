@@ -1,0 +1,1 @@
+The SD library is the same one that is included in the Arduino IDE by default, with the exception of SD.begin(), which contains a slight modification that allows it to be called multiple times. This serves to both verify SD status before accessing, and to reinitialize in the event that the card is removed.
