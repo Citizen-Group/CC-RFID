@@ -7,3 +7,5 @@ Utilizing the extremely low cost technology of **MIFARE** - a leading company in
 CRFID development project represents the building, design and implementation of a self contained, deployable, hardware package to allow for the physical interaction of Citizens to the digital world. 
 
 It is supported by parallel development of the Citizen Card software development and Member Database development.
+
+Shoutout to [Numb3rs-Git](https://github.com/Numb3rs-Git) for all his hard work brining this project to become a reality.
